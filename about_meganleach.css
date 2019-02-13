@@ -1,0 +1,17 @@
+/*
+* Megan Leach
+* February 8, 2019
+* CSS About Me Web Page
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+background-color: peachpuff;
+}
